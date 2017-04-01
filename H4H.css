@@ -25,3 +25,13 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+#footer {
+    position: fixed;
+    text-align: center;
+    bottom: 7px;
+    background-color: #8ac2f7;
+    width: 98.5%;
+    height: 19px;
+    border-radius: 10px;
+}
